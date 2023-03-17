@@ -1,1 +1,1 @@
-How to know the path directory name
+Some helpful scripts
