@@ -1,2 +1,2 @@
 #!/bin/bash
-sed '$p' filename >> filename
+tail -n 1 < iacta >> iacta
